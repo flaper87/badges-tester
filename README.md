@@ -1,7 +1,7 @@
 # badges-tester
 Testing work done here: https://review.openstack.org/#/c/391588/
 
-# Galnce team tags:
+# Glance team tags:
 
 [![Project Tags][project-badges]][project-link]
 
