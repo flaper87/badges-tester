@@ -8,12 +8,12 @@ Assume this is the glance-store repo
 
 [![Team Tags][team-badges]][project-link]
 
-[team-badges]: http://docs-draft.openstack.org/88/391588/2/check/gate-governance-docs-ubuntu-xenial/0160123/doc/build/html/badges/glance-team.svg
+[team-badges]: http://docs-draft.openstack.org/88/391588/3/check/gate-governance-docs-ubuntu-xenial/92fb335//doc/build/html/badges/glance-team.svg
 [project-link]: http://governance.openstack.org/reference/projects/glance.html
 
 # glance-store tags:
 
 [![Project Tags][project-badges]][project-link]
 
-[project-badges]: http://docs-draft.openstack.org/88/391588/2/check/gate-governance-docs-ubuntu-xenial/0160123/doc/build/html/badges/glance-store.svg
+[project-badges]: http://docs-draft.openstack.org/88/391588/3/check/gate-governance-docs-ubuntu-xenial/92fb335//doc/build/html/badges/glance-store.svg
 [project-link]: http://governance.openstack.org/reference/projects/glance.html
