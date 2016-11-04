@@ -6,4 +6,4 @@ Assume this is the glance-store repo
 
 # Glance team tags:
 
-<img src="http://docs-draft.openstack.org/88/391588/5/check/gate-governance-docs-ubuntu-xenial/d2e8473//doc/build/html/badges/glance.svg" height="100%" width="100%">
+<img src="http://docs-draft.openstack.org/88/391588/5/check/gate-governance-docs-ubuntu-xenial/d2e8473//doc/build/html/badges/glance.svg" height="400" width="100%">
