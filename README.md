@@ -6,14 +6,6 @@ Assume this is the glance-store repo
 
 # Glance team tags:
 
-[![Team Tags][team-badges]][project-link]
+[![Team Tags][team-badges]]
 
-[team-badges]: http://docs-draft.openstack.org/88/391588/3/check/gate-governance-docs-ubuntu-xenial/92fb335//doc/build/html/badges/glance-team.svg
-[project-link]: http://governance.openstack.org/reference/projects/glance.html
-
-# glance-store tags:
-
-[![Project Tags][project-badges]][project-link]
-
-[project-badges]: http://docs-draft.openstack.org/88/391588/3/check/gate-governance-docs-ubuntu-xenial/92fb335//doc/build/html/badges/glance-store.svg
-[project-link]: http://governance.openstack.org/reference/projects/glance.html
+[team-badges]: http://docs-draft.openstack.org/88/391588/5/check/gate-governance-docs-ubuntu-xenial/d2e8473//doc/build/html/badges/glance.svg
